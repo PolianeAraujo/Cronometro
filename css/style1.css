@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container h1{
+    color: rgb(18, 187, 238);
+    text-align: center;
+    margin-top: 30%;
+
+}
+
+.time {
+    font-size: 5rem;
+    text-align: center;
+    color: rgb(18, 103, 160);
+}
+
+.main div {
+    display: flex;
+    justify-content: center;
+   
+}
+
